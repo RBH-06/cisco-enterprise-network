@@ -1,5 +1,7 @@
 # Infrastructure Réseau d'Entreprise Sécurisée (Cisco)
 
+<img width="873" height="360" alt="Capture d&#39;écran 2026-09-03 213945" src="https://github.com/user-attachments/assets/47e5e21f-e8f2-4743-bcac-c5e5d9eac3aa" />
+
 ![Topologie Réseau](./image_2ea94b.png)
 
 ## Présentation du Projet
